@@ -1,6 +1,8 @@
 # love
 程序员表白神器。程序员特有的求爱神器。程序员追女友利器=android+雪花效果+彩色气泡+心形花园
 
+#APK下载（把这个给女朋友，她一定会高兴的）：
+##http://download.csdn.net/detail/qiushi_1990/9476880
 
 #表白效果图
 ![image](https://github.com/qiushi123/love/blob/master/I_Love_You_APP/loving.gif?raw=true)
@@ -17,3 +19,5 @@
 ![image](https://github.com/qiushi123/love/blob/master/I_Love_You_APP/qcl4.png?raw=true)
 
 
+#我的个人博客
+## http://blog.csdn.net/qiushi_1990
